@@ -32,7 +32,7 @@ Go to Affiliates &rarr; Settings &rarr; Integrations and enter the IDs of the pr
 
 == Screenshots ==
 
-1. 
+1. The input field to enter the product IDs that should receive commission.
 
 == Changelog ==
 
